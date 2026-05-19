@@ -4,4 +4,4 @@ Registration Wizard is a modern multi-step onboarding application built with Rea
 ![image alt](https://github.com/muskan2862/ProdeskITMission7/blob/d696bc4bfdc8d03673749e9936e4b54af09e4884/Screenshot%202026-05-19%20135059.png)
 ![image alt](https://github.com/muskan2862/ProdeskITMission7/blob/1e5227abaf75b47fbf4308d5a51fe6f0a583815a/Screenshot%202026-05-19%20135123.png)
 ![image alt](https://github.com/muskan2862/ProdeskITMission7/blob/ea9fed3c143bcf630e9d8c094133393f74496f33/Screenshot%202026-05-19%20135137.png)
-![image alt]()
+![image alt](https://github.com/muskan2862/ProdeskITMission7/blob/9014473b0c1bd6bc5ffb3516076866e33d0ebc9a/Screenshot%202026-05-19%20135154.png)
